@@ -1,6 +1,8 @@
 # Rosalind
 
-These are my Solutions to [Rosalind Problems](http://rosalind.info/problems). I am updating Jupyter Notebooks with various solutions as well as some descriptions.
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Eukaryote_DNA-en.svg/320px-Eukaryote_DNA-en.svg.png)
+
+These are my Solutions to [Rosalind Problems](http://rosalind.info/problems). I am updating Jupyter Notebooks containing various solutions as well as some basic concepts.
 
 
 ## Contents

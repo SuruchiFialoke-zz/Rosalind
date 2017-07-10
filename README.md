@@ -14,10 +14,17 @@ These are my Solutions to [Rosalind Problems](http://rosalind.info/problems). I 
 4. Rabbits and Recurrence Relations
 5. Computing GC Content
   
-  
+ **[DNA_intermediate.ipynb](https://github.com/SuruchiFialoke/Rosalind/blob/master/DNA_intermediate.ipynb)** 
+6. Counting Point Mutations
+7. Mendel's First Law
+8. Translating RNA into Protein
+9. Finding a Motif in DNA
+10. Consensus and Profile
+
   
   ## Resources
   
-  [Rosalind Problems](http://rosalind.info/problems)
-  [Biopython](https://anaconda.org/anaconda/biopython)
+  - [Rosalind Problems](http://rosalind.info/problems)
+  
+  - [Biopython](https://anaconda.org/anaconda/biopython)
  

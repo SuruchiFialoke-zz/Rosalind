@@ -15,6 +15,7 @@ These are my Solutions to [Rosalind Problems](http://rosalind.info/problems). I 
 5. Computing GC Content
   
  **[DNA_intermediate.ipynb](https://github.com/SuruchiFialoke/Rosalind/blob/master/DNA_intermediate.ipynb)** 
+ 
 6. Counting Point Mutations
 7. Mendel's First Law
 8. Translating RNA into Protein
